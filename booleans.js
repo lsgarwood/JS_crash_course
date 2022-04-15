@@ -9,8 +9,8 @@ if (isAdult) { //checking if isAdult is false
     console.log("is not an adult") // which it is
 }
 
-console.log(!true); // adding ! meant 'not'true
-console.log(!false);
+console.log(!true); // adding ! means 'not'true
+console.log(!false); // 'not'false
 
 if (!isAdult) { //adding ! here will make isAdult true
     console.log("is adult") //now the result is true
