@@ -20,4 +20,15 @@ var result2 = addNumbers(7, 3);
 console.log(result1);
 console.log(result2);
 
+// --------------------------- Lesson 2
+//built in functions
 
+var person = {
+    name: "Jamila"
+}
+
+console.log(Object.values(person)); // shows values from object
+console.log(Object.keys(person)); //shows keys from object
+
+console.log("Jamila".toUpperCase()); // changes the string to upper case using .function()
+console.log("Jamila".indexOf("i")); //show index of i in string using .function()
