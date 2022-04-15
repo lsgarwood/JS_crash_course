@@ -1,6 +1,6 @@
 //Arithmetic Operators
 var addition = 2 + 2;
-var subtration = 2 - 2;
+var subtration = 2 - 1;
 var division = 10 / 2;
 var multiply = 10 * 2;
 var remainder = 10 % 9;
