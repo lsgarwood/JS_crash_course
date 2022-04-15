@@ -27,7 +27,7 @@ console.log(person.address.city); //access specific property within nested objec
 console.log(Object.values(person)); //access all values for object(person)
 console.log(Object.keys(person)); // access all keys for object(person)
 
-console.log(JSON.stringify(person)); //makes all keys:values into a string from within the object
+console.log(JSON.stringify(person)); //makes all keys:values into a string from within the Object
 
 
 
