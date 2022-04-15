@@ -1,9 +1,11 @@
 //Loops
 
-// for (var i = 0; i<=10; i++) {
-//     console.log(i);
-// }
-//will print nums 0 - 10
+//For loops
+
+for (var i = 0; i<=10; i++) {
+    console.log(i);
+}
+// will print nums 0 - 10
 
 var names = [
     "Alex",
@@ -28,4 +30,3 @@ console.log("foreach:");
 names.forEach(function(name) {
     console.log(name)
 });
-
